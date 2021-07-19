@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**LeticiaGS/LeticiaGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leticia Gomes 👩
 
-Here are some ideas to get you started:
+I am a Front-End developer in training, who has been a computer technician since 2020 👩‍💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about solving problems, learning new things and helping people around me. Always ready for new challenges and ready to face changes.
+
+
+#### 🎯 "seja grato pelo que tem enquanto trabalha pelo que quer"  📚
+
+- 📍 From Limeira - SP;
+- 🏫 Studying at Colégio Técnico de Limeira (Cotil);
+-  👀 looking for a job opportunity.
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-gomes002/).
