@@ -13,4 +13,7 @@ I am passionate about solving problems, learning new things and helping people a
 - 🏫 Studying at Colégio Técnico de Limeira (Cotil);
 -  👀 looking for a job opportunity.
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-gomes002/).
+
+Follow me 👇
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-gomes002/)](https://www.linkedin.com/in/let%C3%ADcia-gomes002/)
+
