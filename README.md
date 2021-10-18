@@ -11,7 +11,6 @@ I am passionate about solving problems, learning new things and helping people a
 
 - 📍 From Limeira - SP;
 - 🏫 Studying at Colégio Técnico de Limeira (Cotil);
--  👀 looking for a job opportunity.
 
 
 Follow me:
