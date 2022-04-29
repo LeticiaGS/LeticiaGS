@@ -2,7 +2,7 @@
 
 My name is Leticia Gomes 👩
 
-I am a Front-End developer in training, who has been a computer technician since 2020 👩‍💻.
+I am a Front-End developer in training, who has been a computer technician since 2021 👩‍💻.
 
 I am passionate about solving problems, learning new things and helping people around me. Always ready for new challenges and ready to face changes.
 
