@@ -10,7 +10,8 @@ I am passionate about solving problems, learning new things and helping people a
 #### 🎯 "seja grato pelo que tem enquanto trabalha pelo que quer"  📚
 
 - 📍 From Limeira - SP;
-- 🏫 Studying at Colégio Técnico de Limeira (Cotil);
+- 🏫 Studied at Colégio Técnico de Limeira (Cotil);
+- 💻 Working as a development intern at Ci&t;
 
 
 Follow me:
