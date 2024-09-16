@@ -2,7 +2,7 @@
 My name is Leticia Gomes 👩
 
 I am a Front-End developer in training, who has been graduated in computer technician in 2021 👩‍💻.
-I am studying Information Systems at IFC - Camboriú/SC.
+I am studying Information Systems at UEMG - Passos/MG.
 
 I am passionate about solving problems, learning new things and helping people around me. Always ready for new challenges and ready to face changes.
 
@@ -11,7 +11,7 @@ I am passionate about solving problems, learning new things and helping people a
 
 - 📍 From Limeira - SP;
 - 🏫 Studied at Colégio Técnico de Limeira (Unicamp);
-- 💻 Working as a development intern at Ci&t;
+- 💻 Working as a Junior Frontend Developer at Ci&t;
 
 <div>
   <a href="https://github.com/LeticiaGS">
