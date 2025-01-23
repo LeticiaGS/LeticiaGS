@@ -1,7 +1,7 @@
 # Hey! <img src="https://user-images.githubusercontent.com/69720222/165953791-7992b966-81b7-4947-bff2-5a0f645c4dc5.gif" alt="aceno" width="40" height="40"> 
-My name is Leticia Gomes 👩
+My name is Leticia Gomes,
 
-I am a Front-End developer in training, who has been graduated in computer technician in 2021 👩‍💻.
+I'm a Junior Front End Developer at CI&T. I has been graduated in computer technician in 2021 👩‍💻.
 I am studying Information Systems at UEMG - Passos/MG.
 
 I am passionate about solving problems, learning new things and helping people around me. Always ready for new challenges and ready to face changes.
@@ -11,7 +11,7 @@ I am passionate about solving problems, learning new things and helping people a
 
 - 📍 From Limeira - SP;
 - 🏫 Studied at Colégio Técnico de Limeira (Unicamp);
-- 💻 Working as a Junior Frontend Developer at Ci&t;
+- 💻 Working as a Junior Frontend Developer at CI&T.
 
 <div>
   <a href="https://github.com/LeticiaGS">
